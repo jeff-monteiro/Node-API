@@ -1,2 +1,5 @@
-# Node-API
-On this project I built a aPI using NodeJs
+Gerencia as requisições, rotas e URLs, entre outras funcionalidades
+### npm install --save express
+
+Rodar o app
+### node app.js --save
